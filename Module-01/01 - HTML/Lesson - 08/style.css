@@ -1,0 +1,21 @@
+.login {
+    max-width: 300px;
+    margin: 0 auto;
+    border: solid 2px #666;
+    border-radius: 5%;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+}
+input {
+    margin: 5px auto;
+    padding: 1px;    
+}
+textarea {
+    width: 90%; 
+    height: 200px; 
+    resize: none; 
+}
