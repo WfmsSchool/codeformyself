@@ -1,0 +1,47 @@
+body {
+    background-color: #721;
+    background-image: url(./img/bg.png);
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    margin-left: 10px;
+}
+img {
+    display: block;
+    margin: 10px auto;    
+}
+p img {
+    float:left;
+    margin: 5px 10px;
+}
+p {
+    color:  grey;
+}
+.blue {
+    color: blue;
+}
+.fontclass {
+    font-family: Arial;
+    font-size: 25px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.lesson04_css {
+    font-family: Tahoma;
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 125%;    
+}
+.lesson05_css {
+    background-color: #Aa5;
+}
+
+
